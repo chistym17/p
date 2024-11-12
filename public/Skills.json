@@ -1,0 +1,15 @@
+[
+  {"name": "c", "image": "https://i.ibb.co/sJDVdZ9/icons8-c-48-1.png"},
+  {"name": "python", "image": "https://i.ibb.co/ng4sbZF/python-5968350.png"},
+  {"name": "c++", "image": "https://i.ibb.co/1TQFwMn/icons8-c-48.png"},
+  {"name": "django", "image": "https://i.ibb.co/1Jz1V0p/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-48.png"},
+  {"name": "html", "image": "https://i.ibb.co/XDzRMhB/icons8-html-48.png"},
+  {"name": "css", "image": "https://i.ibb.co/p01gJtt/icons8-css-48.png"},
+  {"name": "reactjs", "image": "https://i.ibb.co/2MxNtz7/icons8-react-native-48.png"},
+  {"name": "javascript", "image": "https://i.ibb.co/d6WyDs9/icons8-javascript-48.png"},
+  {"name": "nodejs", "image": "https://i.ibb.co/DtZr2j2/icons8-nodejs-48.png"},
+  {"name": "mongodb", "image": "https://i.ibb.co/sCd8yM9/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png"},
+  {"name": "mysql", "image": "https://i.ibb.co/HNWhJ1q/icons8-mysql-48.png"},
+  {"name": "figma", "image": "https://i.ibb.co/4Smr5g6/icons8-figma-48.png"}
+]
+

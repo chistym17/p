@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+/* index.css */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Rancho&family=Raleway:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fff; /* Soft pink from your palette */
+  font-family: "Roboto", sans-serif;
+}
+
+.floating-image-container {
+  display: inline-block;
+  overflow: hidden;
+}
+
+.floating-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-shadow {
+  box-shadow: 0 4px 6px -1px rgba(194, 91, 130, 0.3),
+    /* Dark pink shadow */ 0 2px 4px -2px rgba(194, 91, 130, 0.2); /* Dark pink shadow */
+}
+
+.custom-border {
+  @apply rounded-lg border-4 object-cover;
+  border-color: #c75b82; /* Dark pink from your palette */
+}
