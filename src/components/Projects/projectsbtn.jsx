@@ -4,7 +4,7 @@ import ProjectsSection from "../../components/ProjectSection";
 import { motion, AnimatePresence } from "framer-motion";
 
 const ViewAllProjectsButton = () => {
-  const [showProjects, setShowProjects] = useState(false);
+  const [showProjects, setShowProjects] = useState(true);
 
   const toggleProjects = () => {
     setShowProjects(!showProjects);
